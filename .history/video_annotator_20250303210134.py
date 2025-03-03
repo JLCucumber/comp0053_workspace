@@ -118,8 +118,6 @@ class VideoAnnotator:
 
         with open(self.output_file, "w") as f:
             json.dump(self.annotations, f, indent=4)
-        
-        self.save_annotations_to_csv()  # 新增
 
         print(f"标注完成！数据已保存到 {self.output_file}")
         sys.exit(0)

@@ -4,7 +4,6 @@ import os
 import subprocess
 import sys
 import time
-import csv  # 新增
 
 
 class VideoAnnotator:
@@ -118,21 +117,10 @@ class VideoAnnotator:
 
         with open(self.output_file, "w") as f:
             json.dump(self.annotations, f, indent=4)
-        
-        self.save_annotations_to_csv()  # 新增
 
         print(f"标注完成！数据已保存到 {self.output_file}")
         sys.exit(0)
 
-    def save_annotations_to_csv(self):
-        """将标注数据保存为 CSV 文件"""
-        csv_file = self.output_file.replace(".json", ".csv")
-        with open(csv_file, mode='w', newline='') as file:
-            writer = csv.writer(file)
-            writer.writerow(["timestamp", "arousal"])
-            for annotation in self.annotations:
-                writer.writerow([annotation["timestamp"], annotation["arousal"]])
-        print(f"标注数据已保存到 {csv_file}")
 
 if __name__ == "__main__":
     video_path = "video.mp4"
