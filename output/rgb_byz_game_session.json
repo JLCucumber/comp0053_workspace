@@ -1,0 +1,1202 @@
+[
+    {
+        "timestamp": 0,
+        "arousal": 2
+    },
+    {
+        "timestamp": 3,
+        "arousal": 2
+    },
+    {
+        "timestamp": 6,
+        "arousal": 3
+    },
+    {
+        "timestamp": 9,
+        "arousal": 3
+    },
+    {
+        "timestamp": 12,
+        "arousal": 2
+    },
+    {
+        "timestamp": 15,
+        "arousal": 3
+    },
+    {
+        "timestamp": 18,
+        "arousal": 3
+    },
+    {
+        "timestamp": 21,
+        "arousal": 3
+    },
+    {
+        "timestamp": 24,
+        "arousal": 2
+    },
+    {
+        "timestamp": 27,
+        "arousal": 4
+    },
+    {
+        "timestamp": 30,
+        "arousal": 4
+    },
+    {
+        "timestamp": 33,
+        "arousal": 4
+    },
+    {
+        "timestamp": 36,
+        "arousal": 3
+    },
+    {
+        "timestamp": 39,
+        "arousal": 3
+    },
+    {
+        "timestamp": 42,
+        "arousal": 3
+    },
+    {
+        "timestamp": 45,
+        "arousal": 3
+    },
+    {
+        "timestamp": 48,
+        "arousal": 3
+    },
+    {
+        "timestamp": 51,
+        "arousal": 4
+    },
+    {
+        "timestamp": 54,
+        "arousal": 4
+    },
+    {
+        "timestamp": 57,
+        "arousal": 4
+    },
+    {
+        "timestamp": 60,
+        "arousal": 4
+    },
+    {
+        "timestamp": 63,
+        "arousal": 4
+    },
+    {
+        "timestamp": 66,
+        "arousal": 3
+    },
+    {
+        "timestamp": 69,
+        "arousal": 4
+    },
+    {
+        "timestamp": 72,
+        "arousal": 3
+    },
+    {
+        "timestamp": 75,
+        "arousal": 3
+    },
+    {
+        "timestamp": 78,
+        "arousal": 3
+    },
+    {
+        "timestamp": 81,
+        "arousal": 3
+    },
+    {
+        "timestamp": 84,
+        "arousal": 3
+    },
+    {
+        "timestamp": 87,
+        "arousal": 3
+    },
+    {
+        "timestamp": 90,
+        "arousal": 4
+    },
+    {
+        "timestamp": 93,
+        "arousal": 4
+    },
+    {
+        "timestamp": 96,
+        "arousal": 4
+    },
+    {
+        "timestamp": 99,
+        "arousal": 6
+    },
+    {
+        "timestamp": 102,
+        "arousal": 4
+    },
+    {
+        "timestamp": 105,
+        "arousal": 4
+    },
+    {
+        "timestamp": 108,
+        "arousal": 4
+    },
+    {
+        "timestamp": 111,
+        "arousal": 4
+    },
+    {
+        "timestamp": 114,
+        "arousal": 4
+    },
+    {
+        "timestamp": 117,
+        "arousal": 4
+    },
+    {
+        "timestamp": 120,
+        "arousal": 4
+    },
+    {
+        "timestamp": 123,
+        "arousal": 4
+    },
+    {
+        "timestamp": 126,
+        "arousal": 4
+    },
+    {
+        "timestamp": 129,
+        "arousal": 4
+    },
+    {
+        "timestamp": 132,
+        "arousal": 4
+    },
+    {
+        "timestamp": 135,
+        "arousal": 4
+    },
+    {
+        "timestamp": 138,
+        "arousal": 4
+    },
+    {
+        "timestamp": 141,
+        "arousal": 4
+    },
+    {
+        "timestamp": 144,
+        "arousal": 4
+    },
+    {
+        "timestamp": 147,
+        "arousal": 4
+    },
+    {
+        "timestamp": 150,
+        "arousal": 4
+    },
+    {
+        "timestamp": 153,
+        "arousal": 4
+    },
+    {
+        "timestamp": 156,
+        "arousal": 4
+    },
+    {
+        "timestamp": 159,
+        "arousal": 4
+    },
+    {
+        "timestamp": 162,
+        "arousal": 4
+    },
+    {
+        "timestamp": 165,
+        "arousal": 4
+    },
+    {
+        "timestamp": 168,
+        "arousal": 4
+    },
+    {
+        "timestamp": 171,
+        "arousal": 4
+    },
+    {
+        "timestamp": 174,
+        "arousal": 4
+    },
+    {
+        "timestamp": 177,
+        "arousal": 4
+    },
+    {
+        "timestamp": 180,
+        "arousal": 4
+    },
+    {
+        "timestamp": 183,
+        "arousal": 4
+    },
+    {
+        "timestamp": 186,
+        "arousal": 4
+    },
+    {
+        "timestamp": 189,
+        "arousal": 4
+    },
+    {
+        "timestamp": 192,
+        "arousal": 4
+    },
+    {
+        "timestamp": 195,
+        "arousal": 5
+    },
+    {
+        "timestamp": 198,
+        "arousal": 5
+    },
+    {
+        "timestamp": 201,
+        "arousal": 6
+    },
+    {
+        "timestamp": 204,
+        "arousal": 5
+    },
+    {
+        "timestamp": 207,
+        "arousal": 6
+    },
+    {
+        "timestamp": 210,
+        "arousal": 7
+    },
+    {
+        "timestamp": 213,
+        "arousal": 5
+    },
+    {
+        "timestamp": 216,
+        "arousal": 5
+    },
+    {
+        "timestamp": 219,
+        "arousal": 6
+    },
+    {
+        "timestamp": 222,
+        "arousal": 6
+    },
+    {
+        "timestamp": 225,
+        "arousal": 6
+    },
+    {
+        "timestamp": 228,
+        "arousal": 6
+    },
+    {
+        "timestamp": 231,
+        "arousal": 6
+    },
+    {
+        "timestamp": 234,
+        "arousal": 6
+    },
+    {
+        "timestamp": 237,
+        "arousal": 6
+    },
+    {
+        "timestamp": 240,
+        "arousal": 6
+    },
+    {
+        "timestamp": 243,
+        "arousal": 7
+    },
+    {
+        "timestamp": 246,
+        "arousal": 6
+    },
+    {
+        "timestamp": 249,
+        "arousal": 6
+    },
+    {
+        "timestamp": 252,
+        "arousal": 6
+    },
+    {
+        "timestamp": 255,
+        "arousal": 7
+    },
+    {
+        "timestamp": 258,
+        "arousal": 6
+    },
+    {
+        "timestamp": 261,
+        "arousal": 6
+    },
+    {
+        "timestamp": 264,
+        "arousal": 6
+    },
+    {
+        "timestamp": 267,
+        "arousal": 5
+    },
+    {
+        "timestamp": 270,
+        "arousal": 5
+    },
+    {
+        "timestamp": 273,
+        "arousal": 5
+    },
+    {
+        "timestamp": 276,
+        "arousal": 5
+    },
+    {
+        "timestamp": 279,
+        "arousal": 5
+    },
+    {
+        "timestamp": 282,
+        "arousal": 5
+    },
+    {
+        "timestamp": 285,
+        "arousal": 5
+    },
+    {
+        "timestamp": 288,
+        "arousal": 5
+    },
+    {
+        "timestamp": 291,
+        "arousal": 5
+    },
+    {
+        "timestamp": 294,
+        "arousal": 7
+    },
+    {
+        "timestamp": 297,
+        "arousal": 7
+    },
+    {
+        "timestamp": 300,
+        "arousal": 8
+    },
+    {
+        "timestamp": 303,
+        "arousal": 8
+    },
+    {
+        "timestamp": 306,
+        "arousal": 6
+    },
+    {
+        "timestamp": 309,
+        "arousal": 6
+    },
+    {
+        "timestamp": 312,
+        "arousal": 6
+    },
+    {
+        "timestamp": 315,
+        "arousal": 6
+    },
+    {
+        "timestamp": 318,
+        "arousal": 6
+    },
+    {
+        "timestamp": 321,
+        "arousal": 5
+    },
+    {
+        "timestamp": 324,
+        "arousal": 5
+    },
+    {
+        "timestamp": 327,
+        "arousal": 6
+    },
+    {
+        "timestamp": 330,
+        "arousal": 7
+    },
+    {
+        "timestamp": 333,
+        "arousal": 6
+    },
+    {
+        "timestamp": 336,
+        "arousal": 8
+    },
+    {
+        "timestamp": 339,
+        "arousal": 8
+    },
+    {
+        "timestamp": 342,
+        "arousal": 7
+    },
+    {
+        "timestamp": 345,
+        "arousal": 6
+    },
+    {
+        "timestamp": 348,
+        "arousal": 6
+    },
+    {
+        "timestamp": 351,
+        "arousal": 6
+    },
+    {
+        "timestamp": 354,
+        "arousal": 6
+    },
+    {
+        "timestamp": 357,
+        "arousal": 6
+    },
+    {
+        "timestamp": 360,
+        "arousal": 6
+    },
+    {
+        "timestamp": 363,
+        "arousal": 5
+    },
+    {
+        "timestamp": 366,
+        "arousal": 6
+    },
+    {
+        "timestamp": 369,
+        "arousal": 5
+    },
+    {
+        "timestamp": 372,
+        "arousal": 5
+    },
+    {
+        "timestamp": 375,
+        "arousal": 5
+    },
+    {
+        "timestamp": 378,
+        "arousal": 6
+    },
+    {
+        "timestamp": 381,
+        "arousal": 6
+    },
+    {
+        "timestamp": 384,
+        "arousal": 6
+    },
+    {
+        "timestamp": 387,
+        "arousal": 6
+    },
+    {
+        "timestamp": 390,
+        "arousal": 5
+    },
+    {
+        "timestamp": 393,
+        "arousal": 6
+    },
+    {
+        "timestamp": 396,
+        "arousal": 6
+    },
+    {
+        "timestamp": 399,
+        "arousal": 6
+    },
+    {
+        "timestamp": 402,
+        "arousal": 6
+    },
+    {
+        "timestamp": 405,
+        "arousal": 6
+    },
+    {
+        "timestamp": 408,
+        "arousal": 6
+    },
+    {
+        "timestamp": 411,
+        "arousal": 6
+    },
+    {
+        "timestamp": 414,
+        "arousal": 7
+    },
+    {
+        "timestamp": 417,
+        "arousal": 5
+    },
+    {
+        "timestamp": 420,
+        "arousal": 5
+    },
+    {
+        "timestamp": 423,
+        "arousal": 6
+    },
+    {
+        "timestamp": 426,
+        "arousal": 7
+    },
+    {
+        "timestamp": 429,
+        "arousal": 6
+    },
+    {
+        "timestamp": 432,
+        "arousal": 6
+    },
+    {
+        "timestamp": 435,
+        "arousal": 5
+    },
+    {
+        "timestamp": 438,
+        "arousal": 5
+    },
+    {
+        "timestamp": 441,
+        "arousal": 5
+    },
+    {
+        "timestamp": 444,
+        "arousal": 4
+    },
+    {
+        "timestamp": 447,
+        "arousal": 4
+    },
+    {
+        "timestamp": 450,
+        "arousal": 5
+    },
+    {
+        "timestamp": 453,
+        "arousal": 5
+    },
+    {
+        "timestamp": 456,
+        "arousal": 5
+    },
+    {
+        "timestamp": 459,
+        "arousal": 5
+    },
+    {
+        "timestamp": 462,
+        "arousal": 5
+    },
+    {
+        "timestamp": 465,
+        "arousal": 5
+    },
+    {
+        "timestamp": 468,
+        "arousal": 5
+    },
+    {
+        "timestamp": 471,
+        "arousal": 5
+    },
+    {
+        "timestamp": 474,
+        "arousal": 5
+    },
+    {
+        "timestamp": 477,
+        "arousal": 5
+    },
+    {
+        "timestamp": 480,
+        "arousal": 5
+    },
+    {
+        "timestamp": 483,
+        "arousal": 5
+    },
+    {
+        "timestamp": 486,
+        "arousal": 5
+    },
+    {
+        "timestamp": 489,
+        "arousal": 5
+    },
+    {
+        "timestamp": 492,
+        "arousal": 5
+    },
+    {
+        "timestamp": 495,
+        "arousal": 5
+    },
+    {
+        "timestamp": 498,
+        "arousal": 5
+    },
+    {
+        "timestamp": 501,
+        "arousal": 5
+    },
+    {
+        "timestamp": 504,
+        "arousal": 5
+    },
+    {
+        "timestamp": 507,
+        "arousal": 5
+    },
+    {
+        "timestamp": 510,
+        "arousal": 4
+    },
+    {
+        "timestamp": 513,
+        "arousal": 5
+    },
+    {
+        "timestamp": 516,
+        "arousal": 5
+    },
+    {
+        "timestamp": 519,
+        "arousal": 6
+    },
+    {
+        "timestamp": 522,
+        "arousal": 6
+    },
+    {
+        "timestamp": 525,
+        "arousal": 5
+    },
+    {
+        "timestamp": 528,
+        "arousal": 5
+    },
+    {
+        "timestamp": 531,
+        "arousal": 5
+    },
+    {
+        "timestamp": 534,
+        "arousal": 6
+    },
+    {
+        "timestamp": 537,
+        "arousal": 5
+    },
+    {
+        "timestamp": 540,
+        "arousal": 5
+    },
+    {
+        "timestamp": 543,
+        "arousal": 5
+    },
+    {
+        "timestamp": 546,
+        "arousal": 5
+    },
+    {
+        "timestamp": 549,
+        "arousal": 5
+    },
+    {
+        "timestamp": 552,
+        "arousal": 5
+    },
+    {
+        "timestamp": 555,
+        "arousal": 6
+    },
+    {
+        "timestamp": 558,
+        "arousal": 6
+    },
+    {
+        "timestamp": 561,
+        "arousal": 6
+    },
+    {
+        "timestamp": 564,
+        "arousal": 6
+    },
+    {
+        "timestamp": 567,
+        "arousal": 5
+    },
+    {
+        "timestamp": 570,
+        "arousal": 5
+    },
+    {
+        "timestamp": 573,
+        "arousal": 5
+    },
+    {
+        "timestamp": 576,
+        "arousal": 6
+    },
+    {
+        "timestamp": 579,
+        "arousal": 6
+    },
+    {
+        "timestamp": 582,
+        "arousal": 6
+    },
+    {
+        "timestamp": 585,
+        "arousal": 6
+    },
+    {
+        "timestamp": 588,
+        "arousal": 6
+    },
+    {
+        "timestamp": 591,
+        "arousal": 6
+    },
+    {
+        "timestamp": 594,
+        "arousal": 6
+    },
+    {
+        "timestamp": 597,
+        "arousal": 6
+    },
+    {
+        "timestamp": 600,
+        "arousal": 6
+    },
+    {
+        "timestamp": 603,
+        "arousal": 7
+    },
+    {
+        "timestamp": 606,
+        "arousal": 6
+    },
+    {
+        "timestamp": 609,
+        "arousal": 6
+    },
+    {
+        "timestamp": 612,
+        "arousal": 6
+    },
+    {
+        "timestamp": 615,
+        "arousal": 7
+    },
+    {
+        "timestamp": 618,
+        "arousal": 6
+    },
+    {
+        "timestamp": 621,
+        "arousal": 6
+    },
+    {
+        "timestamp": 624,
+        "arousal": 6
+    },
+    {
+        "timestamp": 627,
+        "arousal": 6
+    },
+    {
+        "timestamp": 630,
+        "arousal": 6
+    },
+    {
+        "timestamp": 633,
+        "arousal": 8
+    },
+    {
+        "timestamp": 636,
+        "arousal": 9
+    },
+    {
+        "timestamp": 639,
+        "arousal": 8
+    },
+    {
+        "timestamp": 642,
+        "arousal": 9
+    },
+    {
+        "timestamp": 645,
+        "arousal": 9
+    },
+    {
+        "timestamp": 648,
+        "arousal": 8
+    },
+    {
+        "timestamp": 651,
+        "arousal": 7
+    },
+    {
+        "timestamp": 654,
+        "arousal": 6
+    },
+    {
+        "timestamp": 657,
+        "arousal": 6
+    },
+    {
+        "timestamp": 660,
+        "arousal": 6
+    },
+    {
+        "timestamp": 663,
+        "arousal": 6
+    },
+    {
+        "timestamp": 666,
+        "arousal": 7
+    },
+    {
+        "timestamp": 669,
+        "arousal": 6
+    },
+    {
+        "timestamp": 672,
+        "arousal": 6
+    },
+    {
+        "timestamp": 675,
+        "arousal": 5
+    },
+    {
+        "timestamp": 678,
+        "arousal": 5
+    },
+    {
+        "timestamp": 681,
+        "arousal": 5
+    },
+    {
+        "timestamp": 684,
+        "arousal": 5
+    },
+    {
+        "timestamp": 687,
+        "arousal": 5
+    },
+    {
+        "timestamp": 690,
+        "arousal": 5
+    },
+    {
+        "timestamp": 693,
+        "arousal": 5
+    },
+    {
+        "timestamp": 696,
+        "arousal": 5
+    },
+    {
+        "timestamp": 699,
+        "arousal": 5
+    },
+    {
+        "timestamp": 702,
+        "arousal": 5
+    },
+    {
+        "timestamp": 705,
+        "arousal": 5
+    },
+    {
+        "timestamp": 708,
+        "arousal": 5
+    },
+    {
+        "timestamp": 711,
+        "arousal": 5
+    },
+    {
+        "timestamp": 714,
+        "arousal": 6
+    },
+    {
+        "timestamp": 717,
+        "arousal": 6
+    },
+    {
+        "timestamp": 720,
+        "arousal": 6
+    },
+    {
+        "timestamp": 723,
+        "arousal": 5
+    },
+    {
+        "timestamp": 726,
+        "arousal": 5
+    },
+    {
+        "timestamp": 729,
+        "arousal": 5
+    },
+    {
+        "timestamp": 732,
+        "arousal": 5
+    },
+    {
+        "timestamp": 735,
+        "arousal": 5
+    },
+    {
+        "timestamp": 738,
+        "arousal": 5
+    },
+    {
+        "timestamp": 741,
+        "arousal": 5
+    },
+    {
+        "timestamp": 744,
+        "arousal": 5
+    },
+    {
+        "timestamp": 747,
+        "arousal": 5
+    },
+    {
+        "timestamp": 750,
+        "arousal": 5
+    },
+    {
+        "timestamp": 753,
+        "arousal": 5
+    },
+    {
+        "timestamp": 756,
+        "arousal": 6
+    },
+    {
+        "timestamp": 759,
+        "arousal": 6
+    },
+    {
+        "timestamp": 762,
+        "arousal": 6
+    },
+    {
+        "timestamp": 765,
+        "arousal": 6
+    },
+    {
+        "timestamp": 768,
+        "arousal": 6
+    },
+    {
+        "timestamp": 771,
+        "arousal": 6
+    },
+    {
+        "timestamp": 774,
+        "arousal": 6
+    },
+    {
+        "timestamp": 777,
+        "arousal": 6
+    },
+    {
+        "timestamp": 780,
+        "arousal": 6
+    },
+    {
+        "timestamp": 783,
+        "arousal": 5
+    },
+    {
+        "timestamp": 786,
+        "arousal": 5
+    },
+    {
+        "timestamp": 789,
+        "arousal": 5
+    },
+    {
+        "timestamp": 792,
+        "arousal": 6
+    },
+    {
+        "timestamp": 795,
+        "arousal": 6
+    },
+    {
+        "timestamp": 798,
+        "arousal": 6
+    },
+    {
+        "timestamp": 801,
+        "arousal": 6
+    },
+    {
+        "timestamp": 804,
+        "arousal": 6
+    },
+    {
+        "timestamp": 807,
+        "arousal": 6
+    },
+    {
+        "timestamp": 810,
+        "arousal": 6
+    },
+    {
+        "timestamp": 813,
+        "arousal": 5
+    },
+    {
+        "timestamp": 816,
+        "arousal": 5
+    },
+    {
+        "timestamp": 819,
+        "arousal": 5
+    },
+    {
+        "timestamp": 822,
+        "arousal": 5
+    },
+    {
+        "timestamp": 825,
+        "arousal": 5
+    },
+    {
+        "timestamp": 828,
+        "arousal": 5
+    },
+    {
+        "timestamp": 831,
+        "arousal": 5
+    },
+    {
+        "timestamp": 834,
+        "arousal": 5
+    },
+    {
+        "timestamp": 837,
+        "arousal": 5
+    },
+    {
+        "timestamp": 840,
+        "arousal": 5
+    },
+    {
+        "timestamp": 843,
+        "arousal": 6
+    },
+    {
+        "timestamp": 846,
+        "arousal": 6
+    },
+    {
+        "timestamp": 849,
+        "arousal": 6
+    },
+    {
+        "timestamp": 852,
+        "arousal": 5
+    },
+    {
+        "timestamp": 855,
+        "arousal": 6
+    },
+    {
+        "timestamp": 858,
+        "arousal": 5
+    },
+    {
+        "timestamp": 861,
+        "arousal": 5
+    },
+    {
+        "timestamp": 864,
+        "arousal": 5
+    },
+    {
+        "timestamp": 867,
+        "arousal": 5
+    },
+    {
+        "timestamp": 870,
+        "arousal": 5
+    },
+    {
+        "timestamp": 873,
+        "arousal": 5
+    },
+    {
+        "timestamp": 876,
+        "arousal": 5
+    },
+    {
+        "timestamp": 879,
+        "arousal": 5
+    },
+    {
+        "timestamp": 882,
+        "arousal": 5
+    },
+    {
+        "timestamp": 885,
+        "arousal": 6
+    },
+    {
+        "timestamp": 888,
+        "arousal": 6
+    },
+    {
+        "timestamp": 891,
+        "arousal": 6
+    },
+    {
+        "timestamp": 894,
+        "arousal": 6
+    },
+    {
+        "timestamp": 897,
+        "arousal": 5
+    }
+]
